@@ -1,3 +1,3 @@
-# 2024 Projects
+#U.S. Maps
 
-Here, you can find code from some projects I worked on in 2024.
+For my dissertation, I needed to create heat maps of the U.S. Here, I share diluted code from that project in case you, too, need to create some maps in R. 
